@@ -1,6 +1,6 @@
 <B>Team Project start<B>
 
--First
--Second
-*Third 
-*Fourth
+- First
+- Second
+* Third 
+* Fourth
