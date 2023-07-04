@@ -1,0 +1,48 @@
+1. Github
+   creating of personal and professional account 
+  2 days 
+   start 07/06/23
+ 
+2. database
+  a sql 
+  b msql
+  c php
+  d mongodb 
+  2weeks
+  start 09/06/23
+
+3. database project
+   database design for ecommerce
+   deployment
+   1 week 
+   start 16/06/23
+
+4. java concept
+   start 24/06//23
+   1 week
+
+5. java project
+   development of mobileApp for the database (ecommerce)
+   start 2/07/23
+   2 week
+
+   
+   5.1 wed development tech
+     a. boostrap, css and js
+      1 week
+ 
+   5.2 Ecommerce website project
+     a. user side
+     b Admin side
+     c. Linking to database 
+      3 weeks 
+
+6. phyton concept
+   
+7.Andriod and IOS App deveplopment
+
+
+ 
+
+   
+   
